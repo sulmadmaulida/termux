@@ -23,5 +23,5 @@ Postingan yang dilarang
 1. Gunakan aplikasi whastapp mod (whatsapp inmune)
 2. [Cara Atasi Grup *Termux* Kena Virtex](https://bit.ly/AtasiGrupWaCrash-Termux)
 
-#LIST APK TERMUX
+# DAFTAR APK TERMUX (terbaru)
 1. [Termux V118](https://github.com/sulmadmaulida/termux/releases/tag/Termux)
