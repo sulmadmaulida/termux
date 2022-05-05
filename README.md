@@ -6,8 +6,8 @@ Termux adalah terminal emulator untuk Android yang memungkinkan untuk menjalanka
 - Sistem operasi: Android
 
 **YOK GABUNG GRUP TERMUX**
-- Grup WhatsApp : [https://bit.ly/GrupWaTermux]
-- Grup Facebook : [https://bit.ly/GrupFbTermux]
+- Grup WhatsApp: [https://bit.ly/GrupWaTermux]
+- Grup Facebook: [https://bit.ly/GrupFbTermux]
 
 **DIMOHON UNTUK IKUTI PERATURAN GRUP**
 Postingan yang dilarang
