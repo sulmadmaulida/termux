@@ -22,3 +22,6 @@ Postingan yang dilarang
 ##CARA  ATASI GRUP WHASTAPP TERKENA VIRTEX
 1. Gunakan aplikasi whastapp mod (whatsapp inmune)
 2. [Cara Atasi Grup *Termux* Kena Virtex](https://bit.ly/AtasiGrupWaCrash-Termux)
+
+#LIST APK TERMUX
+1. [Termux V118](https://github.com/sulmadmaulida/termux/releases/tag/Termux)
