@@ -6,8 +6,8 @@ Termux adalah terminal emulator untuk Android yang memungkinkan untuk menjalanka
 - Sistem operasi: Android
 
 **YOK GABUNG GRUP TERMUX**
-- Grup WhatsApp: [https://bit.ly/GrupWaTermux]
-- Grup Facebook: [https://bit.ly/GrupFbTermux]
+- [Grup WhatsApp Termux](https://bit.ly/GrupWaTermux)
+- [Grup Facebook Termux](https://bit.ly/GrupFbTermux)
 
 **DIMOHON UNTUK IKUTI PERATURAN GRUP**
 Postingan yang dilarang
@@ -21,4 +21,4 @@ Postingan yang dilarang
 
 ##CARA  ATASI GRUP WHASTAPP TERKENA VIRTEX
 1. Gunakan aplikasi whastapp mod (whatsapp inmune)
-2. Cara Atasi Grup *Termux* Kena Virtex [https://bit.ly/AtasiGrupWaCrash-Termux]
+2. [Cara Atasi Grup *Termux* Kena Virtex](https://bit.ly/AtasiGrupWaCrash-Termux)
