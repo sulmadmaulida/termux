@@ -19,3 +19,6 @@ Postingan yang dilarang
 6. 🚫 promosi barang.
 7. 🚫 sebar link grup tampa seizin admin.
 
+##CARA  ATASI GRUP WHASTAPP TERKENA VIRTEX
+1. Gunakan aplikasi whastapp mod (whatsapp imune)
+2. Cara Atasi Grup *Termux* Kena Virtex [https://bit.ly/AtasiGrupWaCrash-Termux]
