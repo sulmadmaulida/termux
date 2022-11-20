@@ -25,3 +25,4 @@ Postingan yang dilarang
 
 # DAFTAR APK TERMUX (terbaru)
 1. [Termux V118](https://github.com/sulmadmaulida/termux/releases/tag/Termux)
+2. [Termux V118 New - S2](https://github.com/sulmadmaulida/termux/releases/tag/TermuxS2)
